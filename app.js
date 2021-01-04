@@ -10,6 +10,7 @@ const directory = 'output';
 
 // EXPRESS SPECIFIC STUFF
 app.use('/static', express.static('static'))
+app.use('/output', express.static('output'))
 app.use(express.urlencoded())
 
 // PUG SPECIFIC STUFF
