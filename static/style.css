@@ -1,0 +1,34 @@
+.container{
+    margin: 12px auto;
+    max-width: 90%;
+}
+h1{
+    text-align: center;
+}
+input, textarea{
+    display: block;
+    padding: 3px;
+    margin: auto;
+    width: 60%;
+    height: 30vh;
+    outline: none;
+    border: 2px solid;
+}
+
+.btn{
+    display: block;
+    padding: 5px 12px;
+    margin: 4px auto;
+    background: grey;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border: 2px solid black;   
+    border-radius: 5px; 
+    cursor: pointer;
+    outline: none;
+}
+.genimg{
+    width: 15%;
+    height: 15%;
+}

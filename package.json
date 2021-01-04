@@ -1,0 +1,20 @@
+{
+  "name": "handwritten",
+  "version": "1.0.0",
+  "description": "Text to handwriting converter",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "node": "^15.4.0",
+    "nodemon": "^2.0.6",
+    "pug": "^3.0.0",
+    "python-shell": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tanuja",
+  "license": "ISC"
+}
